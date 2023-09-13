@@ -9,7 +9,7 @@
     <a href="/#whoami">
         About
     </a>
-    <a href="/">
+    <a href="/#contact">
         Contact
     </a >
     <a href="/">

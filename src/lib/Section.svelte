@@ -8,7 +8,7 @@
 
     <div class=" bg-opacity-50  rounded-3xl ">
         <h1 class="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-red-800">
-            {value}
+            {@html value}
         </h1>
     </div>
     <Scroller title={false} linkT={link}/>
