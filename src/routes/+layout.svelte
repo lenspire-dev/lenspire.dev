@@ -2,7 +2,7 @@
     import "../app.css"
 </script>
 
-<nav class="  border border-r-0 fixed z-50 px-6 py-6 md:px-16 md:py-8 flex justify-center space-x-6 md:space-x-16 backdrop-blur-sm bg-white bg-opacity-50 top-6 right-0 translate-x-0  h-auto text-xl md:text-2xl font-semibold rounded-l-full  text-red-700 ">
+<nav class="  border border-r-0 fixed z-50 px-12 py-6 md:px-16 md:py-8 flex justify-center space-x-10 md:space-x-16 backdrop-blur-sm bg-white bg-opacity-50 top-6 right-0 translate-x-0  h-auto text-xl md:text-2xl font-semibold rounded-l-full  text-red-700 ">
     <a href="/">
         Home    
     </a>
