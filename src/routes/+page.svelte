@@ -20,7 +20,7 @@
 </div>
 <div id="developer">
 
-    <Section value="I am a <span class='font-light text-gray-800'>developer.</span>"  link="/#designer"/>
+    <Section value="I am a <span class='font-light text-gray-800'>full-stack developer.</span>"  link="/#designer"/>
 
 </div>
 <div id="designer">
@@ -38,9 +38,12 @@
     <Section value="I am here to  <span class=' font-light text-pink-400'>make your dreams real.</span>"  link="/#contact"/>
 
 </div>
+
+
+
 <div id="contact">
 
-    <Section value=' Contact me via <a href="https://wa.me/+905444602407" class="underline font-light text-green-400">WhatsApp</a>'  link="/#contact"/>
+    <Section showArrow={false} value=' Contact me via <a href="https://wa.me/+905444602407" class=" font-light text-green-400">WhatsApp.</a>'  link="/#contact"/>
 
 </div>
 </main>

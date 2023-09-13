@@ -1,6 +1,7 @@
 <script>
     export let value = "";
     export let link = "";
+    export let showArrow = true ;
     import Scroller from "./Scroller.svelte";
 </script>
 
@@ -11,5 +12,5 @@
             {@html value}
         </h1>
     </div>
-    <Scroller title={false} linkT={link}/>
+    <Scroller {showArrow} title={false} linkT={link}/>
 </section>

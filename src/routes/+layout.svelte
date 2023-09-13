@@ -12,9 +12,7 @@
     <a href="/#contact">
         Contact
     </a >
-    <a href="/">
-        Prices
-    </a>
+    
 </nav>
 
     <slot/>
