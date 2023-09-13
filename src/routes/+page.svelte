@@ -7,7 +7,7 @@
 ">
 
     <div class=" bg-opacity-50 px-4 py-6 sm:px-8 md:py-6 lg:px-12 lg:py-8 xl:p-16 rounded-full bg-red-200 -mt-16 ">
-        <img src="/lenspire.png" alt="Lenspire.dev" class="">
+        <img href="/" src="/lenspire.png" alt="Lenspire.dev" class="">
         
     </div>
     <Scroller linkT="/#whoami" />
