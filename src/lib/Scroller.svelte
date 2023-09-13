@@ -3,12 +3,12 @@
     export let linkT = "";
 </script>
 
-<a href="{linkT}" class="absolute bottom-16 right-1/2 translate-x-1/2 grid justify-center items-center text-center w-full gap-3">
+<a href="{linkT}" class="absolute  bottom-24 md:bottom-16 right-1/2 translate-x-1/2 grid   justify-center items-center text-center w-full ">
     {#if title}
-    <span class="absolute  right-1/2 translate-x-1/2 bottom-10 font-bold">
+    <span class="absolute  right-1/2 translate-x-1/2 bottom-16 font-bold">
         Scroll down
     </span>
-    <div class="absolute  right-1/2 translate-x-1/2 border-2 border-red-700 h-12 w-8 rounded-full ">
+    <div class=" relative right-1/2 translate-x-1/2 border-2 border-red-700 h-12 w-8 rounded-full ">
         <div class="bg-red-700 h-3 w-1 top-3 absolute rounded-full right-1/2 translate-x-1/2">
             
         </div>
