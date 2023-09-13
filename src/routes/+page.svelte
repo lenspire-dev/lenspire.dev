@@ -6,7 +6,11 @@
 <section class="relative p-8 lg:p-32 h-screen bg-white text-black grid  justify-center items-center ">
 
     <div class=" bg-opacity-50 px-4 py-6 sm:px-8 md:py-6 lg:px-12 lg:py-8 xl:p-16 rounded-full bg-red-200 -mt-16 ">
-        <img href="/" src="/lenspire.png" alt="Lenspire.dev" class="">
+        <a href="https://www.lenspire.dev">
+
+            <img src="/lenspire.png" alt="Lenspire.dev" >
+        </a>
+
         
     </div>
 
