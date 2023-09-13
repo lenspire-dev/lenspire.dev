@@ -5,7 +5,7 @@
 <main class="font-sans">
 <section class="relative p-8 lg:p-32 h-screen bg-white text-black grid  justify-center items-center ">
 
-    <div class=" bg-opacity-50 px-4 py-6 sm:px-8 md:py-6 lg:px-12 lg:py-8 xl:p-16 rounded-tl-3xl rounded-br-3xl  bg-red-200 -mt-16 ">
+    <div class=" bg-opacity-50 px-6 py-8 sm:px-9 md:py-10 lg:px-12 lg:py-12 xl:p-16 rounded-tl-3xl rounded-br-3xl  bg-red-200 -mt-16 ">
         <a href="https://www.lenspire.dev">
 
             <img src="/lenspire.png" alt="Lenspire.dev" >
