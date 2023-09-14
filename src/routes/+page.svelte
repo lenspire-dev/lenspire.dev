@@ -24,7 +24,8 @@
 </div>
 <div id="developer">
 
-    <Section value="I am a <span class='font-light text-gray-800'>full-stack developer.</span>"  link="/#designer"/>
+    <Section value="I am a 
+    <span class='font-light text-gray-800'>full-stack developer.</span>"  link="/#designer"/>
 
 </div>
 <div id="designer">
