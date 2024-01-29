@@ -1,5 +1,5 @@
 <main class="grid justify-center items-center h-screen">
-    <div class="w-screen p-16 sm:p-20 md:p-32 lg:p-40 xl:p-52 2xl:p-60" >
+    <div class="w-screen p-8 sm:p-20 md:p-32 lg:p-40 xl:p-52 2xl:p-60" >
             <svg class="w-full " viewBox="0 0 915 150" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 0H3.86478V55.0731H56.0393V73.4308H0V0Z" fill="#800000"/>
                 <path d="M77.2956 0H128.987V3.86478H81.1604V32.8506H123.19V36.7154H81.1604V69.566H128.987V73.4308H77.2956V0Z" fill="#800000"/>
